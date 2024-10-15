@@ -11,5 +11,6 @@ https://www.first.org/epss/data_stats<P>
 <li>props.conf及びtransforms.confを/opt/splunk/etc/apps/[your_apps_name]/local/配下に置いてください。
 <li>デフォルトのsourcetypeは"epss_data"です。<P>
 <HR>
- EPSSのデータを一括でダウンロードするためのPython Scriptは以下のURLで公開しています。
-https://github.com/papa-anniekey/kode/tree/master/epss_downloader
+ EPSSのデータを一括でダウンロードするためのPython Scriptは以下のURLで公開しています。<BR>
+https://github.com/papa-anniekey/kode/tree/master/epss_downloader<P>
+Happy Splunking!!!
