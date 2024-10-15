@@ -9,4 +9,7 @@ https://www.first.org/epss/data_stats<P>
 <li>データはCSV形式のデータをgzで圧縮されています。
 <li>各データ及びフィールドには日付が含まれていません。そのため、transforms.confでsourceからデータの日付をパースして付け加える処理を行っています。
 <li>props.conf及びtransforms.confを/opt/splunk/etc/apps/[your_apps_name]/local/配下に置いてください。
-<li>デフォルトのsourcetypeは"epss_data"です。
+<li>デフォルトのsourcetypeは"epss_data"です。<P>
+<HR>
+ EPSSのデータを一括でダウンロードするためのPython Scriptは以下のURLで公開しています。
+https://github.com/papa-anniekey/kode/tree/master/epss_downloader
